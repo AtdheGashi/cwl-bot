@@ -1,0 +1,1538 @@
+{
+    "ΩGod of WarΩ": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "170",
+        "stars_a": "163",
+        "stars_diff": "7",
+        "avg_perc": "96.68%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Nattingham",
+            "WarKings",
+            "Chaos Hammer",
+            "BostonTeaParty",
+            "BYE",
+            "Why so Golem?",
+            "Code Enigma",
+            "Knights Templar",
+            "_Black Apple_",
+            "Göteborgs kriga",
+            "BYE",
+            "Predominance",
+            "CroLegion"
+        ],
+        "results": [
+            {
+                "home_stars": "82",
+                "home_perc": "95.83%",
+                "enemy_name": "Nattingham",
+                "enemy_stars": "80",
+                "enemy_perc": "90.93%",
+                "result": "win"
+            },
+            {
+                "home_stars": "88",
+                "home_perc": "97.53%",
+                "enemy_name": "WarKings",
+                "enemy_stars": "83",
+                "enemy_perc": "92.67%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Chaos Hammer"
+    },
+    "_Black Apple_": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "169",
+        "stars_a": "167",
+        "stars_diff": "2",
+        "avg_perc": "94.30%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Code Enigma",
+            "Knights Templar",
+            "Göteborgs kriga",
+            "Predominance",
+            "BYE",
+            "CroLegion",
+            "Nattingham",
+            "WarKings",
+            "ΩGod of WarΩ",
+            "Chaos Hammer",
+            "BYE",
+            "BostonTeaParty",
+            "Why so Golem?"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "93.83%",
+                "enemy_name": "Code Enigma",
+                "enemy_stars": "84",
+                "enemy_perc": "93.43%",
+                "result": "win"
+            },
+            {
+                "home_stars": "85",
+                "home_perc": "94.77%",
+                "enemy_name": "Knights Templar",
+                "enemy_stars": "83",
+                "enemy_perc": "92.80%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Göteborgs kriga"
+    },
+    "CroLegion": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "169",
+        "stars_a": "170",
+        "stars_diff": "-1",
+        "avg_perc": "94.92%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "Chaos Hammer",
+            "BostonTeaParty",
+            "Nattingham",
+            "Knights Templar",
+            "BYE",
+            "_Black Apple_",
+            "Göteborgs kriga",
+            "Predominance",
+            "Why so Golem?",
+            "Code Enigma",
+            "BYE",
+            "WarKings",
+            "ΩGod of WarΩ"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "95.07%",
+                "enemy_name": "Chaos Hammer",
+                "enemy_stars": "87",
+                "enemy_perc": "96.17%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "85",
+                "home_perc": "94.77%",
+                "enemy_name": "BostonTeaParty",
+                "enemy_stars": "83",
+                "enemy_perc": "92.00%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Nattingham"
+    },
+    "Why so Golem?": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "166",
+        "stars_a": "171",
+        "stars_diff": "-5",
+        "avg_perc": "92.75%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Göteborgs kriga",
+            "Predominance",
+            "Code Enigma",
+            "WarKings",
+            "BYE",
+            "ΩGod of WarΩ",
+            "Chaos Hammer",
+            "BostonTeaParty",
+            "CroLegion",
+            "Nattingham",
+            "BYE",
+            "Knights Templar",
+            "_Black Apple_"
+        ],
+        "results": [
+            {
+                "home_stars": "82",
+                "home_perc": "92.20%",
+                "enemy_name": "Göteborgs kriga",
+                "enemy_stars": "86",
+                "enemy_perc": "94.70%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "84",
+                "home_perc": "93.30%",
+                "enemy_name": "Predominance",
+                "enemy_stars": "85",
+                "enemy_perc": "94.57%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Code Enigma"
+    },
+    "Predominance": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "169",
+        "stars_a": "169",
+        "stars_diff": "0",
+        "avg_perc": "93.60%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "The Lost",
+            "Why so Golem?",
+            "The Moochers",
+            "_Black Apple_",
+            "BYE",
+            "WarKings",
+            "Reddit Viper",
+            "CroLegion",
+            "BostonTeaParty",
+            "Reddit Elephino",
+            "BYE",
+            "ΩGod of WarΩ",
+            "Knights Templar"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "92.63%",
+                "enemy_name": "The Lost",
+                "enemy_stars": "85",
+                "enemy_perc": "94.97%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "85",
+                "home_perc": "94.57%",
+                "enemy_name": "Why so Golem?",
+                "enemy_stars": "84",
+                "enemy_perc": "93.30%",
+                "result": "win"
+            }
+        ],
+        "next_war": "The Moochers"
+    },
+    "WarKings": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "166",
+        "stars_a": "173",
+        "stars_diff": "-7",
+        "avg_perc": "93.64%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Reddit Elephino",
+            "ΩGod of WarΩ",
+            "Reddit Viper",
+            "Why so Golem?",
+            "BYE",
+            "Predominance",
+            "The Moochers",
+            "_Black Apple_",
+            "Knights Templar",
+            "The Lost",
+            "BYE",
+            "CroLegion",
+            "BostonTeaParty"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "94.60%",
+                "enemy_name": "Reddit Elephino",
+                "enemy_stars": "85",
+                "enemy_perc": "94.63%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "92.67%",
+                "enemy_name": "ΩGod of WarΩ",
+                "enemy_stars": "88",
+                "enemy_perc": "97.53%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Reddit Viper"
+    },
+    "Knights Templar": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "166",
+        "stars_a": "168",
+        "stars_diff": "-2",
+        "avg_perc": "92.85%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "The Moochers",
+            "_Black Apple_",
+            "The Lost",
+            "CroLegion",
+            "BYE",
+            "BostonTeaParty",
+            "Reddit Elephino",
+            "ΩGod of WarΩ",
+            "WarKings",
+            "Reddit Viper",
+            "BYE",
+            "Why so Golem?",
+            "Predominance"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "92.90%",
+                "enemy_name": "The Moochers",
+                "enemy_stars": "83",
+                "enemy_perc": "94.10%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "92.80%",
+                "enemy_name": "_Black Apple_",
+                "enemy_stars": "85",
+                "enemy_perc": "94.77%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "The Lost"
+    },
+    "BostonTeaParty": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "166",
+        "stars_a": "169",
+        "stars_diff": "-3",
+        "avg_perc": "91.77%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Reddit Viper",
+            "CroLegion",
+            "Reddit Elephino",
+            "ΩGod of WarΩ",
+            "BYE",
+            "Knights Templar",
+            "The Lost",
+            "Why so Golem?",
+            "Predominance",
+            "The Moochers",
+            "BYE",
+            "_Black Apple_",
+            "WarKings"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "91.53%",
+                "enemy_name": "Reddit Viper",
+                "enemy_stars": "84",
+                "enemy_perc": "95.00%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "92.00%",
+                "enemy_name": "CroLegion",
+                "enemy_stars": "85",
+                "enemy_perc": "94.77%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Reddit Elephino"
+    },
+    "4bidden": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "171",
+        "stars_a": "166",
+        "stars_diff": "5",
+        "avg_perc": "95.27%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "Immoral Reapers",
+            "Reddit Ace",
+            "Crunchtime",
+            "Bangladesh",
+            "BYE",
+            "Trollstein",
+            "CWC-Brawlers",
+            "Aussie Addicts",
+            "Valar Morghulis",
+            "Varhaiseläke",
+            "BYE",
+            "OneHive Invicta",
+            "ClashUnited"
+        ],
+        "results": [
+            {
+                "home_stars": "85",
+                "home_perc": "94.53%",
+                "enemy_name": "Immoral Reapers",
+                "enemy_stars": "86",
+                "enemy_perc": "94.70%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "86",
+                "home_perc": "96.00%",
+                "enemy_name": "Reddit Ace",
+                "enemy_stars": "80",
+                "enemy_perc": "92.20%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Crunchtime"
+    },
+    "ClashUnited": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "168",
+        "stars_a": "167",
+        "stars_diff": "1",
+        "avg_perc": "92.45%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Crunchtime",
+            "Bangladesh",
+            "Immoral Reapers",
+            "Aussie Addicts",
+            "BYE",
+            "Valar Morghulis",
+            "Varhaiseläke",
+            "OneHive Invicta",
+            "Trollstein",
+            "CWC-Brawlers",
+            "BYE",
+            "Reddit Ace",
+            "4bidden"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "90.93%",
+                "enemy_name": "Crunchtime",
+                "enemy_stars": "82",
+                "enemy_perc": "91.27%",
+                "result": "win"
+            },
+            {
+                "home_stars": "85",
+                "home_perc": "93.97%",
+                "enemy_name": "Bangladesh",
+                "enemy_stars": "85",
+                "enemy_perc": "94.63%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Immoral Reapers"
+    },
+    "Trollstein": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "165",
+        "stars_a": "171",
+        "stars_diff": "-6",
+        "avg_perc": "93.75%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Varhaiseläke",
+            "OneHive Invicta",
+            "CWC-Brawlers",
+            "Reddit Ace",
+            "BYE",
+            "4bidden",
+            "Crunchtime",
+            "Bangladesh",
+            "ClashUnited",
+            "Immoral Reapers",
+            "BYE",
+            "Aussie Addicts",
+            "Valar Morghulis"
+        ],
+        "results": [
+            {
+                "home_stars": "82",
+                "home_perc": "94.27%",
+                "enemy_name": "Varhaiseläke",
+                "enemy_stars": "84",
+                "enemy_perc": "93.70%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "93.23%",
+                "enemy_name": "OneHive Invicta",
+                "enemy_stars": "87",
+                "enemy_perc": "95.40%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "CWC-Brawlers"
+    },
+    "Valar Morghulis": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "166",
+        "stars_a": "168",
+        "stars_diff": "-2",
+        "avg_perc": "93.05%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "CWC-Brawlers",
+            "Aussie Addicts",
+            "Varhaiseläke",
+            "OneHive Invicta",
+            "BYE",
+            "ClashUnited",
+            "Immoral Reapers",
+            "Reddit Ace",
+            "4bidden",
+            "Crunchtime",
+            "BYE",
+            "Bangladesh",
+            "Trollstein"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "92.37%",
+                "enemy_name": "CWC-Brawlers",
+                "enemy_stars": "84",
+                "enemy_perc": "94.10%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "93.73%",
+                "enemy_name": "Aussie Addicts",
+                "enemy_stars": "84",
+                "enemy_perc": "94.37%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Varhaiseläke"
+    },
+    "Aussie Addicts": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "168",
+        "stars_a": "165",
+        "stars_diff": "3",
+        "avg_perc": "94.42%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Red Onslaught",
+            "Valar Morghulis",
+            "North Awakens",
+            "ClashUnited",
+            "BYE",
+            "Bangladesh",
+            "Reddit Hounds",
+            "4bidden",
+            "Reddit Ace",
+            "Gunma SAMURAI",
+            "BYE",
+            "Trollstein",
+            "OneHive Invicta"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "94.47%",
+                "enemy_name": "Red Onslaught",
+                "enemy_stars": "82",
+                "enemy_perc": "91.70%",
+                "result": "win"
+            },
+            {
+                "home_stars": "84",
+                "home_perc": "94.37%",
+                "enemy_name": "Valar Morghulis",
+                "enemy_stars": "83",
+                "enemy_perc": "93.73%",
+                "result": "win"
+            }
+        ],
+        "next_war": "North Awakens"
+    },
+    "OneHive Invicta": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "171",
+        "stars_a": "168",
+        "stars_diff": "3",
+        "avg_perc": "94.47%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "North Awakens",
+            "Trollstein",
+            "Red Onslaught",
+            "Valar Morghulis",
+            "BYE",
+            "Reddit Ace",
+            "Gunma SAMURAI",
+            "ClashUnited",
+            "Bangladesh",
+            "Reddit Hounds",
+            "BYE",
+            "4bidden",
+            "Aussie Addicts"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "93.53%",
+                "enemy_name": "North Awakens",
+                "enemy_stars": "85",
+                "enemy_perc": "94.67%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "87",
+                "home_perc": "95.40%",
+                "enemy_name": "Trollstein",
+                "enemy_stars": "83",
+                "enemy_perc": "93.23%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Red Onslaught"
+    },
+    "Bangladesh": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "168",
+        "stars_a": "169",
+        "stars_diff": "-1",
+        "avg_perc": "93.60%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "Gunma SAMURAI",
+            "ClashUnited",
+            "Reddit Hounds",
+            "4bidden",
+            "BYE",
+            "Aussie Addicts",
+            "North Awakens",
+            "Trollstein",
+            "OneHive Invicta",
+            "Red Onslaught",
+            "BYE",
+            "Valar Morghulis",
+            "Reddit Ace"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "92.57%",
+                "enemy_name": "Gunma SAMURAI",
+                "enemy_stars": "84",
+                "enemy_perc": "93.20%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "85",
+                "home_perc": "94.63%",
+                "enemy_name": "ClashUnited",
+                "enemy_stars": "85",
+                "enemy_perc": "93.97%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Reddit Hounds"
+    },
+    "Reddit Ace": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "160",
+        "stars_a": "173",
+        "stars_diff": "-13",
+        "avg_perc": "92.89%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Reddit Hounds",
+            "4bidden",
+            "Gunma SAMURAI",
+            "Trollstein",
+            "BYE",
+            "OneHive Invicta",
+            "Red Onslaught",
+            "Valar Morghulis",
+            "Aussie Addicts",
+            "North Awakens",
+            "BYE",
+            "ClashUnited",
+            "Bangladesh"
+        ],
+        "results": [
+            {
+                "home_stars": "80",
+                "home_perc": "93.57%",
+                "enemy_name": "Reddit Hounds",
+                "enemy_stars": "87",
+                "enemy_perc": "95.30%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "80",
+                "home_perc": "92.20%",
+                "enemy_name": "4bidden",
+                "enemy_stars": "86",
+                "enemy_perc": "96.00%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Gunma SAMURAI"
+    },
+    "Chaos Hammer": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "173",
+        "stars_a": "167",
+        "stars_diff": "6",
+        "avg_perc": "95.47%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "CroLegion",
+            "Reddit Viper",
+            "ΩGod of WarΩ",
+            "The Moochers",
+            "BYE",
+            "Code Enigma",
+            "Why so Golem?",
+            "The Lost",
+            "Göteborgs kriga",
+            "_Black Apple_",
+            "BYE",
+            "Reddit Elephino",
+            "Nattingham"
+        ],
+        "results": [
+            {
+                "home_stars": "87",
+                "home_perc": "96.17%",
+                "enemy_name": "CroLegion",
+                "enemy_stars": "84",
+                "enemy_perc": "95.07%",
+                "result": "win"
+            },
+            {
+                "home_stars": "86",
+                "home_perc": "94.77%",
+                "enemy_name": "Reddit Viper",
+                "enemy_stars": "83",
+                "enemy_perc": "93.90%",
+                "result": "win"
+            }
+        ],
+        "next_war": "ΩGod of WarΩ"
+    },
+    "Code Enigma": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "171",
+        "stars_a": "168",
+        "stars_diff": "3",
+        "avg_perc": "94.28%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "_Black Apple_",
+            "The Moochers",
+            "Why so Golem?",
+            "The Lost",
+            "BYE",
+            "Chaos Hammer",
+            "ΩGod of WarΩ",
+            "Reddit Elephino",
+            "Nattingham",
+            "CroLegion",
+            "BYE",
+            "Reddit Viper",
+            "Göteborgs kriga"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "93.43%",
+                "enemy_name": "_Black Apple_",
+                "enemy_stars": "84",
+                "enemy_perc": "93.83%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "87",
+                "home_perc": "95.13%",
+                "enemy_name": "The Moochers",
+                "enemy_stars": "84",
+                "enemy_perc": "93.73%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Why so Golem?"
+    },
+    "Nattingham": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "162",
+        "stars_a": "162",
+        "stars_diff": "0",
+        "avg_perc": "91.68%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "ΩGod of WarΩ",
+            "Reddit Elephino",
+            "CroLegion",
+            "Reddit Viper",
+            "BYE",
+            "Göteborgs kriga",
+            "_Black Apple_",
+            "The Moochers",
+            "Code Enigma",
+            "Why so Golem?",
+            "BYE",
+            "The Lost",
+            "Chaos Hammer"
+        ],
+        "results": [
+            {
+                "home_stars": "80",
+                "home_perc": "90.93%",
+                "enemy_name": "ΩGod of WarΩ",
+                "enemy_stars": "82",
+                "enemy_perc": "95.83%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "82",
+                "home_perc": "92.43%",
+                "enemy_name": "Reddit Elephino",
+                "enemy_stars": "80",
+                "enemy_perc": "90.53%",
+                "result": "win"
+            }
+        ],
+        "next_war": "CroLegion"
+    },
+    "Göteborgs kriga": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "168",
+        "stars_a": "169",
+        "stars_diff": "-1",
+        "avg_perc": "93.72%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Why so Golem?",
+            "The Lost",
+            "_Black Apple_",
+            "Reddit Elephino",
+            "BYE",
+            "Nattingham",
+            "CroLegion",
+            "Reddit Viper",
+            "Chaos Hammer",
+            "ΩGod of WarΩ",
+            "BYE",
+            "The Moochers",
+            "Code Enigma"
+        ],
+        "results": [
+            {
+                "home_stars": "86",
+                "home_perc": "94.70%",
+                "enemy_name": "Why so Golem?",
+                "enemy_stars": "82",
+                "enemy_perc": "92.20%",
+                "result": "win"
+            },
+            {
+                "home_stars": "82",
+                "home_perc": "92.73%",
+                "enemy_name": "The Lost",
+                "enemy_stars": "87",
+                "enemy_perc": "95.90%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "_Black Apple_"
+    },
+    "The Lost": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "172",
+        "stars_a": "166",
+        "stars_diff": "6",
+        "avg_perc": "95.44%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Predominance",
+            "Göteborgs kriga",
+            "Knights Templar",
+            "Code Enigma",
+            "BYE",
+            "Reddit Elephino",
+            "BostonTeaParty",
+            "Chaos Hammer",
+            "Reddit Viper",
+            "WarKings",
+            "BYE",
+            "Nattingham",
+            "The Moochers"
+        ],
+        "results": [
+            {
+                "home_stars": "85",
+                "home_perc": "94.97%",
+                "enemy_name": "Predominance",
+                "enemy_stars": "84",
+                "enemy_perc": "92.63%",
+                "result": "win"
+            },
+            {
+                "home_stars": "87",
+                "home_perc": "95.90%",
+                "enemy_name": "Göteborgs kriga",
+                "enemy_stars": "82",
+                "enemy_perc": "92.73%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Knights Templar"
+    },
+    "Reddit Viper": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "167",
+        "stars_a": "169",
+        "stars_diff": "-2",
+        "avg_perc": "94.45%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "BostonTeaParty",
+            "Chaos Hammer",
+            "WarKings",
+            "Nattingham",
+            "BYE",
+            "The Moochers",
+            "Predominance",
+            "Göteborgs kriga",
+            "The Lost",
+            "Knights Templar",
+            "BYE",
+            "Code Enigma",
+            "Reddit Elephino"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "95.00%",
+                "enemy_name": "BostonTeaParty",
+                "enemy_stars": "83",
+                "enemy_perc": "91.53%",
+                "result": "win"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "93.90%",
+                "enemy_name": "Chaos Hammer",
+                "enemy_stars": "86",
+                "enemy_perc": "94.77%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "WarKings"
+    },
+    "The Moochers": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "167",
+        "stars_a": "170",
+        "stars_diff": "-3",
+        "avg_perc": "93.92%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Knights Templar",
+            "Code Enigma",
+            "Predominance",
+            "Chaos Hammer",
+            "BYE",
+            "Reddit Viper",
+            "WarKings",
+            "Nattingham",
+            "Reddit Elephino",
+            "BostonTeaParty",
+            "BYE",
+            "Göteborgs kriga",
+            "The Lost"
+        ],
+        "results": [
+            {
+                "home_stars": "83",
+                "home_perc": "94.10%",
+                "enemy_name": "Knights Templar",
+                "enemy_stars": "83",
+                "enemy_perc": "92.90%",
+                "result": "win"
+            },
+            {
+                "home_stars": "84",
+                "home_perc": "93.73%",
+                "enemy_name": "Code Enigma",
+                "enemy_stars": "87",
+                "enemy_perc": "95.13%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Predominance"
+    },
+    "Reddit Elephino": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "165",
+        "stars_a": "165",
+        "stars_diff": "0",
+        "avg_perc": "92.58%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "WarKings",
+            "Nattingham",
+            "BostonTeaParty",
+            "Göteborgs kriga",
+            "BYE",
+            "The Lost",
+            "Knights Templar",
+            "Code Enigma",
+            "The Moochers",
+            "Predominance",
+            "BYE",
+            "Chaos Hammer",
+            "Reddit Viper"
+        ],
+        "results": [
+            {
+                "home_stars": "85",
+                "home_perc": "94.63%",
+                "enemy_name": "WarKings",
+                "enemy_stars": "83",
+                "enemy_perc": "94.60%",
+                "result": "win"
+            },
+            {
+                "home_stars": "80",
+                "home_perc": "90.53%",
+                "enemy_name": "Nattingham",
+                "enemy_stars": "82",
+                "enemy_perc": "92.43%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "BostonTeaParty"
+    },
+    "Immoral Reapers": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "172",
+        "stars_a": "169",
+        "stars_diff": "3",
+        "avg_perc": "94.72%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "4bidden",
+            "Reddit Hounds",
+            "ClashUnited",
+            "Gunma SAMURAI",
+            "BYE",
+            "Varhaiseläke",
+            "Valar Morghulis",
+            "Red Onslaught",
+            "CWC-Brawlers",
+            "Trollstein",
+            "BYE",
+            "North Awakens",
+            "Crunchtime"
+        ],
+        "results": [
+            {
+                "home_stars": "86",
+                "home_perc": "94.70%",
+                "enemy_name": "4bidden",
+                "enemy_stars": "85",
+                "enemy_perc": "94.53%",
+                "result": "win"
+            },
+            {
+                "home_stars": "86",
+                "home_perc": "94.73%",
+                "enemy_name": "Reddit Hounds",
+                "enemy_stars": "84",
+                "enemy_perc": "92.73%",
+                "result": "win"
+            }
+        ],
+        "next_war": "ClashUnited"
+    },
+    "CWC-Brawlers": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "169",
+        "stars_a": "166",
+        "stars_diff": "3",
+        "avg_perc": "93.85%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Valar Morghulis",
+            "Red Onslaught",
+            "Trollstein",
+            "North Awakens",
+            "BYE",
+            "Crunchtime",
+            "4bidden",
+            "Reddit Hounds",
+            "Immoral Reapers",
+            "ClashUnited",
+            "BYE",
+            "Gunma SAMURAI",
+            "Varhaiseläke"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "94.10%",
+                "enemy_name": "Valar Morghulis",
+                "enemy_stars": "83",
+                "enemy_perc": "92.37%",
+                "result": "win"
+            },
+            {
+                "home_stars": "85",
+                "home_perc": "93.60%",
+                "enemy_name": "Red Onslaught",
+                "enemy_stars": "83",
+                "enemy_perc": "92.27%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Trollstein"
+    },
+    "Varhaiseläke": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "165",
+        "stars_a": "163",
+        "stars_diff": "2",
+        "avg_perc": "92.25%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Trollstein",
+            "North Awakens",
+            "Valar Morghulis",
+            "Reddit Hounds",
+            "BYE",
+            "Immoral Reapers",
+            "ClashUnited",
+            "Gunma SAMURAI",
+            "Crunchtime",
+            "4bidden",
+            "BYE",
+            "Red Onslaught",
+            "CWC-Brawlers"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "93.70%",
+                "enemy_name": "Trollstein",
+                "enemy_stars": "82",
+                "enemy_perc": "94.27%",
+                "result": "win"
+            },
+            {
+                "home_stars": "81",
+                "home_perc": "90.80%",
+                "enemy_name": "North Awakens",
+                "enemy_stars": "81",
+                "enemy_perc": "89.97%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Valar Morghulis"
+    },
+    "Crunchtime": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "166",
+        "stars_a": "170",
+        "stars_diff": "-4",
+        "avg_perc": "91.87%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "ClashUnited",
+            "Gunma SAMURAI",
+            "4bidden",
+            "Red Onslaught",
+            "BYE",
+            "CWC-Brawlers",
+            "Trollstein",
+            "North Awakens",
+            "Varhaiseläke",
+            "Valar Morghulis",
+            "BYE",
+            "Reddit Hounds",
+            "Immoral Reapers"
+        ],
+        "results": [
+            {
+                "home_stars": "82",
+                "home_perc": "91.27%",
+                "enemy_name": "ClashUnited",
+                "enemy_stars": "83",
+                "enemy_perc": "90.93%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "84",
+                "home_perc": "92.47%",
+                "enemy_name": "Gunma SAMURAI",
+                "enemy_stars": "87",
+                "enemy_perc": "95.70%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "4bidden"
+    },
+    "Gunma SAMURAI": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "171",
+        "stars_a": "167",
+        "stars_diff": "4",
+        "avg_perc": "94.45%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Bangladesh",
+            "Crunchtime",
+            "Reddit Ace",
+            "Immoral Reapers",
+            "BYE",
+            "Red Onslaught",
+            "OneHive Invicta",
+            "Varhaiseläke",
+            "North Awakens",
+            "Aussie Addicts",
+            "BYE",
+            "CWC-Brawlers",
+            "Reddit Hounds"
+        ],
+        "results": [
+            {
+                "home_stars": "84",
+                "home_perc": "93.20%",
+                "enemy_name": "Bangladesh",
+                "enemy_stars": "83",
+                "enemy_perc": "92.57%",
+                "result": "win"
+            },
+            {
+                "home_stars": "87",
+                "home_perc": "95.70%",
+                "enemy_name": "Crunchtime",
+                "enemy_stars": "84",
+                "enemy_perc": "92.47%",
+                "result": "win"
+            }
+        ],
+        "next_war": "Reddit Ace"
+    },
+    "Reddit Hounds": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "171",
+        "stars_a": "166",
+        "stars_diff": "5",
+        "avg_perc": "94.02%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Reddit Ace",
+            "Immoral Reapers",
+            "Bangladesh",
+            "Varhaiseläke",
+            "BYE",
+            "North Awakens",
+            "Aussie Addicts",
+            "CWC-Brawlers",
+            "Red Onslaught",
+            "OneHive Invicta",
+            "BYE",
+            "Crunchtime",
+            "Gunma SAMURAI"
+        ],
+        "results": [
+            {
+                "home_stars": "87",
+                "home_perc": "95.30%",
+                "enemy_name": "Reddit Ace",
+                "enemy_stars": "80",
+                "enemy_perc": "93.57%",
+                "result": "win"
+            },
+            {
+                "home_stars": "84",
+                "home_perc": "92.73%",
+                "enemy_name": "Immoral Reapers",
+                "enemy_stars": "86",
+                "enemy_perc": "94.73%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Bangladesh"
+    },
+    "North Awakens": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "166",
+        "stars_a": "165",
+        "stars_diff": "1",
+        "avg_perc": "92.32%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "OneHive Invicta",
+            "Varhaiseläke",
+            "Aussie Addicts",
+            "CWC-Brawlers",
+            "BYE",
+            "Reddit Hounds",
+            "Bangladesh",
+            "Crunchtime",
+            "Gunma SAMURAI",
+            "Reddit Ace",
+            "BYE",
+            "Immoral Reapers",
+            "Red Onslaught"
+        ],
+        "results": [
+            {
+                "home_stars": "85",
+                "home_perc": "94.67%",
+                "enemy_name": "OneHive Invicta",
+                "enemy_stars": "84",
+                "enemy_perc": "93.53%",
+                "result": "win"
+            },
+            {
+                "home_stars": "81",
+                "home_perc": "89.97%",
+                "enemy_name": "Varhaiseläke",
+                "enemy_stars": "81",
+                "enemy_perc": "90.80%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Aussie Addicts"
+    },
+    "Red Onslaught": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "165",
+        "stars_a": "169",
+        "stars_diff": "-4",
+        "avg_perc": "91.99%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Aussie Addicts",
+            "CWC-Brawlers",
+            "OneHive Invicta",
+            "Crunchtime",
+            "BYE",
+            "Gunma SAMURAI",
+            "Reddit Ace",
+            "Immoral Reapers",
+            "Reddit Hounds",
+            "Bangladesh",
+            "BYE",
+            "Varhaiseläke",
+            "North Awakens"
+        ],
+        "results": [
+            {
+                "home_stars": "82",
+                "home_perc": "91.70%",
+                "enemy_name": "Aussie Addicts",
+                "enemy_stars": "84",
+                "enemy_perc": "94.47%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "83",
+                "home_perc": "92.27%",
+                "enemy_name": "CWC-Brawlers",
+                "enemy_stars": "85",
+                "enemy_perc": "93.60%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "OneHive Invicta"
+    }
+}

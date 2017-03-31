@@ -1,0 +1,1492 @@
+{
+    "Dark Looters": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "115.0",
+        "stars_a": "115.0",
+        "stars_diff": "0.0",
+        "avg_perc": "94.70%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "War Whales",
+            "Cold September",
+            "North Remembers",
+            "b3astmod3",
+            "BYE",
+            "Elite Gaming",
+            "Immoral Thieves",
+            "Faked Wrgsm",
+            "Power CoC",
+            "ByeForever",
+            "BYE",
+            "Suomi Kotkat",
+            "Clantanemo Bay"
+        ],
+        "results": [
+            {
+                "home_stars": "115",
+                "home_perc": "94.70%",
+                "enemy_name": "War Whales",
+                "enemy_stars": "115",
+                "enemy_perc": "94.82%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Cold September"
+    },
+    "Clantanemo Bay": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "110.0",
+        "stars_a": "107.5",
+        "stars_diff": "2.5",
+        "avg_perc": "92.29%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "North Remembers",
+            "b3astmod3",
+            "War Whales",
+            "Faked Wrgsm",
+            "BYE",
+            "Power CoC",
+            "ByeForever",
+            "Suomi Kotkat",
+            "Elite Gaming",
+            "Immoral Thieves",
+            "BYE",
+            "Cold September",
+            "Dark Looters"
+        ],
+        "results": [
+            {
+                "home_stars": "112",
+                "home_perc": "93.53%",
+                "enemy_name": "North Remembers",
+                "enemy_stars": "106",
+                "enemy_perc": "88.85%",
+                "result": "win"
+            },
+            {
+                "home_stars": "108",
+                "home_perc": "91.05%",
+                "enemy_name": "b3astmod3",
+                "enemy_stars": "109",
+                "enemy_perc": "91.12%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Power CoC": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "111.0",
+        "stars_a": "114.0",
+        "stars_diff": "-3.0",
+        "avg_perc": "93.50%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Immoral Thieves",
+            "Faked Wrgsm",
+            "ByeForever",
+            "Suomi Kotkat",
+            "BYE",
+            "Clantanemo Bay",
+            "War Whales",
+            "Cold September",
+            "Dark Looters",
+            "North Remembers",
+            "BYE",
+            "b3astmod3",
+            "Elite Gaming"
+        ],
+        "results": [
+            {
+                "home_stars": "109",
+                "home_perc": "92.62%",
+                "enemy_name": "Immoral Thieves",
+                "enemy_stars": "113",
+                "enemy_perc": "93.80%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "113",
+                "home_perc": "94.38%",
+                "enemy_name": "Faked Wrgsm",
+                "enemy_stars": "115",
+                "enemy_perc": "94.82%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Elite Gaming": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "109.5",
+        "stars_a": "112.0",
+        "stars_diff": "-2.5",
+        "avg_perc": "92.15%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "ByeForever",
+            "Suomi Kotkat",
+            "Immoral Thieves",
+            "Cold September",
+            "BYE",
+            "Dark Looters",
+            "North Remembers",
+            "b3astmod3",
+            "Clantanemo Bay",
+            "War Whales",
+            "BYE",
+            "Faked Wrgsm",
+            "Power CoC"
+        ],
+        "results": [
+            {
+                "home_stars": "108",
+                "home_perc": "92.10%",
+                "enemy_name": "ByeForever",
+                "enemy_stars": "110",
+                "enemy_perc": "92.78%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "111",
+                "home_perc": "92.20%",
+                "enemy_name": "Suomi Kotkat",
+                "enemy_stars": "114",
+                "enemy_perc": "93.47%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Faked Wrgsm": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "112.5",
+        "stars_a": "111.0",
+        "stars_diff": "1.5",
+        "avg_perc": "93.32%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Killer Bunnies",
+            "Power CoC",
+            "Spartans Legacy",
+            "Clantanemo Bay",
+            "BYE",
+            "b3astmod3",
+            "Bada Bing Clan",
+            "Dark Looters",
+            "Cold September",
+            "OneHive 2.0",
+            "BYE",
+            "Elite Gaming",
+            "Suomi Kotkat"
+        ],
+        "results": [
+            {
+                "home_stars": "110",
+                "home_perc": "91.82%",
+                "enemy_name": "Killer Bunnies",
+                "enemy_stars": "109",
+                "enemy_perc": "92.20%",
+                "result": "win"
+            },
+            {
+                "home_stars": "115",
+                "home_perc": "94.82%",
+                "enemy_name": "Power CoC",
+                "enemy_stars": "113",
+                "enemy_perc": "94.38%",
+                "result": "win"
+            }
+        ]
+    },
+    "b3astmod3": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "110.0",
+        "stars_a": "109.0",
+        "stars_diff": "1.0",
+        "avg_perc": "92.25%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "OneHive 2.0",
+            "Clantanemo Bay",
+            "Bada Bing Clan",
+            "Dark Looters",
+            "BYE",
+            "Faked Wrgsm",
+            "Spartans Legacy",
+            "Elite Gaming",
+            "Suomi Kotkat",
+            "Killer Bunnies",
+            "BYE",
+            "Power CoC",
+            "Cold September"
+        ],
+        "results": [
+            {
+                "home_stars": "111",
+                "home_perc": "93.38%",
+                "enemy_name": "OneHive 2.0",
+                "enemy_stars": "110",
+                "enemy_perc": "91.82%",
+                "result": "win"
+            },
+            {
+                "home_stars": "109",
+                "home_perc": "91.12%",
+                "enemy_name": "Clantanemo Bay",
+                "enemy_stars": "108",
+                "enemy_perc": "91.05%",
+                "result": "win"
+            }
+        ]
+    },
+    "Suomi Kotkat": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "111.5",
+        "stars_a": "113.5",
+        "stars_diff": "-2.0",
+        "avg_perc": "92.34%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "Spartans Legacy",
+            "Elite Gaming",
+            "Killer Bunnies",
+            "Power CoC",
+            "BYE",
+            "Cold September",
+            "OneHive 2.0",
+            "Clantanemo Bay",
+            "b3astmod3",
+            "Bada Bing Clan",
+            "BYE",
+            "Dark Looters",
+            "Faked Wrgsm"
+        ],
+        "results": [
+            {
+                "home_stars": "109",
+                "home_perc": "91.20%",
+                "enemy_name": "Spartans Legacy",
+                "enemy_stars": "116",
+                "enemy_perc": "96.12%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "114",
+                "home_perc": "93.47%",
+                "enemy_name": "Elite Gaming",
+                "enemy_stars": "111",
+                "enemy_perc": "92.20%",
+                "result": "win"
+            }
+        ]
+    },
+    "Cold September": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "106.0",
+        "stars_a": "111.0",
+        "stars_diff": "-5.0",
+        "avg_perc": "91.25%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Bada Bing Clan",
+            "Dark Looters",
+            "OneHive 2.0",
+            "Elite Gaming",
+            "BYE",
+            "Suomi Kotkat",
+            "Killer Bunnies",
+            "Power CoC",
+            "Faked Wrgsm",
+            "Spartans Legacy",
+            "BYE",
+            "Clantanemo Bay",
+            "b3astmod3"
+        ],
+        "results": [
+            {
+                "home_stars": "106",
+                "home_perc": "91.25%",
+                "enemy_name": "Bada Bing Clan",
+                "enemy_stars": "111",
+                "enemy_perc": "92.90%",
+                "result": "loss"
+            }
+        ],
+        "next_war": "Dark Looters"
+    },
+    "Emphatic Elite": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "110.0",
+        "stars_a": "108.5",
+        "stars_diff": "1.5",
+        "avg_perc": "92.84%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "North Watchers",
+            "Mariana Trench",
+            "Reddit Alchemy",
+            "OneHive",
+            "BYE",
+            "6 Schlitzes",
+            "The Swarm",
+            "Midwinters",
+            "PwC",
+            "War & Glory",
+            "BYE",
+            "KANSHA",
+            "Annihil-8"
+        ],
+        "results": [
+            {
+                "home_stars": "112",
+                "home_perc": "93.35%",
+                "enemy_name": "North Watchers",
+                "enemy_stars": "111",
+                "enemy_perc": "93.40%",
+                "result": "win"
+            },
+            {
+                "home_stars": "108",
+                "home_perc": "92.32%",
+                "enemy_name": "Mariana Trench",
+                "enemy_stars": "106",
+                "enemy_perc": "91.55%",
+                "result": "win"
+            }
+        ]
+    },
+    "6 Schlitzes": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "111.0",
+        "stars_a": "109.5",
+        "stars_diff": "1.5",
+        "avg_perc": "92.48%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "War & Glory",
+            "KANSHA",
+            "The Swarm",
+            "Mariana Trench",
+            "BYE",
+            "Emphatic Elite",
+            "Reddit Alchemy",
+            "OneHive",
+            "Annihil-8",
+            "North Watchers",
+            "BYE",
+            "Midwinters",
+            "PwC"
+        ],
+        "results": [
+            {
+                "home_stars": "112",
+                "home_perc": "92.25%",
+                "enemy_name": "War & Glory",
+                "enemy_stars": "110",
+                "enemy_perc": "93.20%",
+                "result": "win"
+            },
+            {
+                "home_stars": "110",
+                "home_perc": "92.70%",
+                "enemy_name": "KANSHA",
+                "enemy_stars": "109",
+                "enemy_perc": "91.80%",
+                "result": "win"
+            }
+        ]
+    },
+    "PwC": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "110.0",
+        "stars_a": "111.0",
+        "stars_diff": "-1.0",
+        "avg_perc": "93.48%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "The Swarm",
+            "Midwinters",
+            "War & Glory",
+            "KANSHA",
+            "BYE",
+            "Annihil-8",
+            "North Watchers",
+            "Mariana Trench",
+            "Emphatic Elite",
+            "Reddit Alchemy",
+            "BYE",
+            "OneHive",
+            "6 Schlitzes"
+        ],
+        "results": [
+            {
+                "home_stars": "107",
+                "home_perc": "91.90%",
+                "enemy_name": "The Swarm",
+                "enemy_stars": "115",
+                "enemy_perc": "95.43%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "113",
+                "home_perc": "95.05%",
+                "enemy_name": "Midwinters",
+                "enemy_stars": "107",
+                "enemy_perc": "91.40%",
+                "result": "win"
+            }
+        ]
+    },
+    "Annihil-8": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "108.5",
+        "stars_a": "112.5",
+        "stars_diff": "-4.0",
+        "avg_perc": "90.66%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Reddit Alchemy",
+            "OneHive",
+            "North Watchers",
+            "Midwinters",
+            "BYE",
+            "PwC",
+            "War & Glory",
+            "KANSHA",
+            "6 Schlitzes",
+            "The Swarm",
+            "BYE",
+            "Mariana Trench",
+            "Emphatic Elite"
+        ],
+        "results": [
+            {
+                "home_stars": "110",
+                "home_perc": "91.43%",
+                "enemy_name": "Reddit Alchemy",
+                "enemy_stars": "111",
+                "enemy_perc": "91.97%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "107",
+                "home_perc": "89.88%",
+                "enemy_name": "OneHive",
+                "enemy_stars": "114",
+                "enemy_perc": "93.53%",
+                "result": "loss"
+            }
+        ]
+    },
+    "OneHive": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "113.5",
+        "stars_a": "109.5",
+        "stars_diff": "4.0",
+        "avg_perc": "93.94%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Reddit Omega",
+            "Annihil-8",
+            "Dark Looters Z",
+            "Emphatic Elite",
+            "BYE",
+            "Midwinters",
+            "Tactical Inc",
+            "6 Schlitzes",
+            "KANSHA",
+            "WHF",
+            "BYE",
+            "PwC",
+            "Mariana Trench"
+        ],
+        "results": [
+            {
+                "home_stars": "113",
+                "home_perc": "94.35%",
+                "enemy_name": "Reddit Omega",
+                "enemy_stars": "112",
+                "enemy_perc": "93.38%",
+                "result": "win"
+            },
+            {
+                "home_stars": "114",
+                "home_perc": "93.53%",
+                "enemy_name": "Annihil-8",
+                "enemy_stars": "107",
+                "enemy_perc": "89.88%",
+                "result": "win"
+            }
+        ]
+    },
+    "KANSHA": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "110.5",
+        "stars_a": "112.0",
+        "stars_diff": "-1.5",
+        "avg_perc": "93.26%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Tactical Inc",
+            "6 Schlitzes",
+            "WHF",
+            "PwC",
+            "BYE",
+            "Mariana Trench",
+            "Reddit Omega",
+            "Annihil-8",
+            "OneHive",
+            "Dark Looters Z",
+            "BYE",
+            "Emphatic Elite",
+            "Midwinters"
+        ],
+        "results": [
+            {
+                "home_stars": "112",
+                "home_perc": "94.72%",
+                "enemy_name": "Tactical Inc",
+                "enemy_stars": "114",
+                "enemy_perc": "94.65%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "109",
+                "home_perc": "91.80%",
+                "enemy_name": "6 Schlitzes",
+                "enemy_stars": "110",
+                "enemy_perc": "92.70%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Mariana Trench": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "108.5",
+        "stars_a": "111.0",
+        "stars_diff": "-2.5",
+        "avg_perc": "91.74%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Dark Looters Z",
+            "Emphatic Elite",
+            "Reddit Omega",
+            "6 Schlitzes",
+            "BYE",
+            "KANSHA",
+            "WHF",
+            "PwC",
+            "Midwinters",
+            "Tactical Inc",
+            "BYE",
+            "Annihil-8",
+            "OneHive"
+        ],
+        "results": [
+            {
+                "home_stars": "111",
+                "home_perc": "91.93%",
+                "enemy_name": "Dark Looters Z",
+                "enemy_stars": "114",
+                "enemy_perc": "94.07%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "106",
+                "home_perc": "91.55%",
+                "enemy_name": "Emphatic Elite",
+                "enemy_stars": "108",
+                "enemy_perc": "92.32%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Midwinters": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "105.5",
+        "stars_a": "111.0",
+        "stars_diff": "-5.5",
+        "avg_perc": "89.90%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "WHF",
+            "PwC",
+            "Tactical Inc",
+            "Annihil-8",
+            "BYE",
+            "OneHive",
+            "Dark Looters Z",
+            "Emphatic Elite",
+            "Mariana Trench",
+            "Reddit Omega",
+            "BYE",
+            "6 Schlitzes",
+            "KANSHA"
+        ],
+        "results": [
+            {
+                "home_stars": "104",
+                "home_perc": "88.40%",
+                "enemy_name": "WHF",
+                "enemy_stars": "109",
+                "enemy_perc": "91.55%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "107",
+                "home_perc": "91.40%",
+                "enemy_name": "PwC",
+                "enemy_stars": "113",
+                "enemy_perc": "95.05%",
+                "result": "loss"
+            }
+        ]
+    },
+    "War Whales": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "115.0",
+        "stars_a": "112.0",
+        "stars_diff": "3.0",
+        "avg_perc": "95.90%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Dark Looters",
+            "Bada Bing Clan",
+            "Clantanemo Bay",
+            "OneHive 2.0",
+            "BYE",
+            "ByeForever",
+            "Power CoC",
+            "Killer Bunnies",
+            "Immoral Thieves",
+            "Elite Gaming",
+            "BYE",
+            "Spartans Legacy",
+            "North Remembers"
+        ],
+        "results": [
+            {
+                "home_stars": "115",
+                "home_perc": "94.82%",
+                "enemy_name": "Dark Looters",
+                "enemy_stars": "115",
+                "enemy_perc": "94.70%",
+                "result": "win"
+            },
+            {
+                "home_stars": "115",
+                "home_perc": "96.97%",
+                "enemy_name": "Bada Bing Clan",
+                "enemy_stars": "109",
+                "enemy_perc": "92.80%",
+                "result": "win"
+            }
+        ]
+    },
+    "Immoral Thieves": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "114.5",
+        "stars_a": "109.5",
+        "stars_diff": "5.0",
+        "avg_perc": "94.85%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Power CoC",
+            "Killer Bunnies",
+            "Elite Gaming",
+            "Spartans Legacy",
+            "BYE",
+            "North Remembers",
+            "Dark Looters",
+            "Bada Bing Clan",
+            "War Whales",
+            "Clantanemo Bay",
+            "BYE",
+            "OneHive 2.0",
+            "ByeForever"
+        ],
+        "results": [
+            {
+                "home_stars": "113",
+                "home_perc": "93.80%",
+                "enemy_name": "Power CoC",
+                "enemy_stars": "109",
+                "enemy_perc": "92.62%",
+                "result": "win"
+            },
+            {
+                "home_stars": "116",
+                "home_perc": "95.90%",
+                "enemy_name": "Killer Bunnies",
+                "enemy_stars": "110",
+                "enemy_perc": "91.53%",
+                "result": "win"
+            }
+        ]
+    },
+    "ByeForever": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "110.5",
+        "stars_a": "110.5",
+        "stars_diff": "0.0",
+        "avg_perc": "92.63%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Elite Gaming",
+            "Spartans Legacy",
+            "Power CoC",
+            "Bada Bing Clan",
+            "BYE",
+            "War Whales",
+            "Clantanemo Bay",
+            "OneHive 2.0",
+            "North Remembers",
+            "Dark Looters",
+            "BYE",
+            "Killer Bunnies",
+            "Immoral Thieves"
+        ],
+        "results": [
+            {
+                "home_stars": "110",
+                "home_perc": "92.78%",
+                "enemy_name": "Elite Gaming",
+                "enemy_stars": "108",
+                "enemy_perc": "92.10%",
+                "result": "win"
+            },
+            {
+                "home_stars": "111",
+                "home_perc": "92.47%",
+                "enemy_name": "Spartans Legacy",
+                "enemy_stars": "113",
+                "enemy_perc": "94.28%",
+                "result": "loss"
+            }
+        ]
+    },
+    "North Remembers": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "108.0",
+        "stars_a": "112.0",
+        "stars_diff": "-4.0",
+        "avg_perc": "90.88%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Clantanemo Bay",
+            "OneHive 2.0",
+            "Dark Looters",
+            "Killer Bunnies",
+            "BYE",
+            "Immoral Thieves",
+            "Elite Gaming",
+            "Spartans Legacy",
+            "ByeForever",
+            "Power CoC",
+            "BYE",
+            "Bada Bing Clan",
+            "War Whales"
+        ],
+        "results": [
+            {
+                "home_stars": "106",
+                "home_perc": "88.85%",
+                "enemy_name": "Clantanemo Bay",
+                "enemy_stars": "112",
+                "enemy_perc": "93.53%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "110",
+                "home_perc": "92.90%",
+                "enemy_name": "OneHive 2.0",
+                "enemy_stars": "112",
+                "enemy_perc": "93.78%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Spartans Legacy": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "114.5",
+        "stars_a": "110.0",
+        "stars_diff": "4.5",
+        "avg_perc": "95.20%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Suomi Kotkat",
+            "ByeForever",
+            "Faked Wrgsm",
+            "Immoral Thieves",
+            "BYE",
+            "Bada Bing Clan",
+            "b3astmod3",
+            "North Remembers",
+            "OneHive 2.0",
+            "Cold September",
+            "BYE",
+            "War Whales",
+            "Killer Bunnies"
+        ],
+        "results": [
+            {
+                "home_stars": "116",
+                "home_perc": "96.12%",
+                "enemy_name": "Suomi Kotkat",
+                "enemy_stars": "109",
+                "enemy_perc": "91.20%",
+                "result": "win"
+            },
+            {
+                "home_stars": "113",
+                "home_perc": "94.28%",
+                "enemy_name": "ByeForever",
+                "enemy_stars": "111",
+                "enemy_perc": "92.47%",
+                "result": "win"
+            }
+        ]
+    },
+    "OneHive 2.0": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "111.0",
+        "stars_a": "110.5",
+        "stars_diff": "0.5",
+        "avg_perc": "92.80%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "b3astmod3",
+            "North Remembers",
+            "Cold September",
+            "War Whales",
+            "BYE",
+            "Killer Bunnies",
+            "Suomi Kotkat",
+            "ByeForever",
+            "Spartans Legacy",
+            "Faked Wrgsm",
+            "BYE",
+            "Immoral Thieves",
+            "Bada Bing Clan"
+        ],
+        "results": [
+            {
+                "home_stars": "110",
+                "home_perc": "91.82%",
+                "enemy_name": "b3astmod3",
+                "enemy_stars": "111",
+                "enemy_perc": "93.38%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "112",
+                "home_perc": "93.78%",
+                "enemy_name": "North Remembers",
+                "enemy_stars": "110",
+                "enemy_perc": "92.90%",
+                "result": "win"
+            }
+        ]
+    },
+    "Bada Bing Clan": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "110.0",
+        "stars_a": "110.5",
+        "stars_diff": "-0.5",
+        "avg_perc": "92.85%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Cold September",
+            "War Whales",
+            "b3astmod3",
+            "ByeForever",
+            "BYE",
+            "Spartans Legacy",
+            "Faked Wrgsm",
+            "Immoral Thieves",
+            "Killer Bunnies",
+            "Suomi Kotkat",
+            "BYE",
+            "North Remembers",
+            "OneHive 2.0"
+        ],
+        "results": [
+            {
+                "home_stars": "111",
+                "home_perc": "92.90%",
+                "enemy_name": "Cold September",
+                "enemy_stars": "106",
+                "enemy_perc": "91.25%",
+                "result": "win"
+            },
+            {
+                "home_stars": "109",
+                "home_perc": "92.80%",
+                "enemy_name": "War Whales",
+                "enemy_stars": "115",
+                "enemy_perc": "96.97%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Killer Bunnies": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "109.5",
+        "stars_a": "113.0",
+        "stars_diff": "-3.5",
+        "avg_perc": "91.87%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Faked Wrgsm",
+            "Immoral Thieves",
+            "Suomi Kotkat",
+            "North Remembers",
+            "BYE",
+            "OneHive 2.0",
+            "Cold September",
+            "War Whales",
+            "Bada Bing Clan",
+            "b3astmod3",
+            "BYE",
+            "ByeForever",
+            "Spartans Legacy"
+        ],
+        "results": [
+            {
+                "home_stars": "109",
+                "home_perc": "92.20%",
+                "enemy_name": "Faked Wrgsm",
+                "enemy_stars": "110",
+                "enemy_perc": "91.82%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "110",
+                "home_perc": "91.53%",
+                "enemy_name": "Immoral Thieves",
+                "enemy_stars": "116",
+                "enemy_perc": "95.90%",
+                "result": "loss"
+            }
+        ]
+    },
+    "The Swarm": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "114.0",
+        "stars_a": "108.0",
+        "stars_diff": "6.0",
+        "avg_perc": "94.77%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "PwC",
+            "WHF",
+            "6 Schlitzes",
+            "Tactical Inc",
+            "BYE",
+            "Reddit Alchemy",
+            "Emphatic Elite",
+            "Dark Looters Z",
+            "North Watchers",
+            "Annihil-8",
+            "BYE",
+            "Reddit Omega",
+            "War & Glory"
+        ],
+        "results": [
+            {
+                "home_stars": "115",
+                "home_perc": "95.43%",
+                "enemy_name": "PwC",
+                "enemy_stars": "107",
+                "enemy_perc": "91.90%",
+                "result": "win"
+            },
+            {
+                "home_stars": "113",
+                "home_perc": "94.10%",
+                "enemy_name": "WHF",
+                "enemy_stars": "109",
+                "enemy_perc": "93.62%",
+                "result": "win"
+            }
+        ]
+    },
+    "War & Glory": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "111.5",
+        "stars_a": "109.0",
+        "stars_diff": "2.5",
+        "avg_perc": "93.57%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "6 Schlitzes",
+            "Tactical Inc",
+            "PwC",
+            "Dark Looters Z",
+            "BYE",
+            "North Watchers",
+            "Annihil-8",
+            "Reddit Omega",
+            "Reddit Alchemy",
+            "Emphatic Elite",
+            "BYE",
+            "WHF",
+            "The Swarm"
+        ],
+        "results": [
+            {
+                "home_stars": "110",
+                "home_perc": "93.20%",
+                "enemy_name": "6 Schlitzes",
+                "enemy_stars": "112",
+                "enemy_perc": "92.25%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "113",
+                "home_perc": "93.93%",
+                "enemy_name": "Tactical Inc",
+                "enemy_stars": "106",
+                "enemy_perc": "90.32%",
+                "result": "win"
+            }
+        ]
+    },
+    "Reddit Alchemy": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "108.0",
+        "stars_a": "112.0",
+        "stars_diff": "-4.0",
+        "avg_perc": "90.51%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Annihil-8",
+            "Reddit Omega",
+            "Emphatic Elite",
+            "WHF",
+            "BYE",
+            "The Swarm",
+            "6 Schlitzes",
+            "Tactical Inc",
+            "War & Glory",
+            "PwC",
+            "BYE",
+            "Dark Looters Z",
+            "North Watchers"
+        ],
+        "results": [
+            {
+                "home_stars": "111",
+                "home_perc": "91.97%",
+                "enemy_name": "Annihil-8",
+                "enemy_stars": "110",
+                "enemy_perc": "91.43%",
+                "result": "win"
+            },
+            {
+                "home_stars": "105",
+                "home_perc": "89.05%",
+                "enemy_name": "Reddit Omega",
+                "enemy_stars": "114",
+                "enemy_perc": "94.65%",
+                "result": "loss"
+            }
+        ]
+    },
+    "North Watchers": {
+        "wins": "0",
+        "loss": "2",
+        "tie": "0",
+        "pct": "0.000",
+        "stars_f": "108.0",
+        "stars_a": "110.0",
+        "stars_diff": "-2.0",
+        "avg_perc": "91.54%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "0-1",
+        "streak": "L2",
+        "schedule": [
+            "Emphatic Elite",
+            "Dark Looters Z",
+            "Annihil-8",
+            "Reddit Omega",
+            "BYE",
+            "War & Glory",
+            "PwC",
+            "WHF",
+            "The Swarm",
+            "6 Schlitzes",
+            "BYE",
+            "Tactical Inc",
+            "Reddit Alchemy"
+        ],
+        "results": [
+            {
+                "home_stars": "111",
+                "home_perc": "93.40%",
+                "enemy_name": "Emphatic Elite",
+                "enemy_stars": "112",
+                "enemy_perc": "93.35%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "105",
+                "home_perc": "89.68%",
+                "enemy_name": "Dark Looters Z",
+                "enemy_stars": "108",
+                "enemy_perc": "88.78%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Dark Looters Z": {
+        "wins": "2",
+        "loss": "0",
+        "tie": "0",
+        "pct": "1.000",
+        "stars_f": "111.0",
+        "stars_a": "108.0",
+        "stars_diff": "3.0",
+        "avg_perc": "91.43%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "1-0",
+        "streak": "W2",
+        "schedule": [
+            "Mariana Trench",
+            "North Watchers",
+            "OneHive",
+            "War & Glory",
+            "BYE",
+            "Tactical Inc",
+            "Midwinters",
+            "The Swarm",
+            "WHF",
+            "KANSHA",
+            "BYE",
+            "Reddit Alchemy",
+            "Reddit Omega"
+        ],
+        "results": [
+            {
+                "home_stars": "114",
+                "home_perc": "94.07%",
+                "enemy_name": "Mariana Trench",
+                "enemy_stars": "111",
+                "enemy_perc": "91.93%",
+                "result": "win"
+            },
+            {
+                "home_stars": "108",
+                "home_perc": "88.78%",
+                "enemy_name": "North Watchers",
+                "enemy_stars": "105",
+                "enemy_perc": "89.68%",
+                "result": "win"
+            }
+        ]
+    },
+    "Reddit Omega": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "113.0",
+        "stars_a": "109.0",
+        "stars_diff": "4.0",
+        "avg_perc": "94.02%",
+        "st_div": "0-0",
+        "st_conf": "1-0",
+        "st_non": "0-1",
+        "streak": "W1",
+        "schedule": [
+            "OneHive",
+            "Reddit Alchemy",
+            "Mariana Trench",
+            "North Watchers",
+            "BYE",
+            "WHF",
+            "KANSHA",
+            "War & Glory",
+            "Tactical Inc",
+            "Midwinters",
+            "BYE",
+            "The Swarm",
+            "Dark Looters Z"
+        ],
+        "results": [
+            {
+                "home_stars": "112",
+                "home_perc": "93.38%",
+                "enemy_name": "OneHive",
+                "enemy_stars": "113",
+                "enemy_perc": "94.35%",
+                "result": "loss"
+            },
+            {
+                "home_stars": "114",
+                "home_perc": "94.65%",
+                "enemy_name": "Reddit Alchemy",
+                "enemy_stars": "105",
+                "enemy_perc": "89.05%",
+                "result": "win"
+            }
+        ]
+    },
+    "WHF": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "109.0",
+        "stars_a": "108.5",
+        "stars_diff": "0.5",
+        "avg_perc": "92.59%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "Midwinters",
+            "The Swarm",
+            "KANSHA",
+            "Reddit Alchemy",
+            "BYE",
+            "Reddit Omega",
+            "Mariana Trench",
+            "North Watchers",
+            "Dark Looters Z",
+            "OneHive",
+            "BYE",
+            "War & Glory",
+            "Tactical Inc"
+        ],
+        "results": [
+            {
+                "home_stars": "109",
+                "home_perc": "91.55%",
+                "enemy_name": "Midwinters",
+                "enemy_stars": "104",
+                "enemy_perc": "88.40%",
+                "result": "win"
+            },
+            {
+                "home_stars": "109",
+                "home_perc": "93.62%",
+                "enemy_name": "The Swarm",
+                "enemy_stars": "113",
+                "enemy_perc": "94.10%",
+                "result": "loss"
+            }
+        ]
+    },
+    "Tactical Inc": {
+        "wins": "1",
+        "loss": "1",
+        "tie": "0",
+        "pct": "0.500",
+        "stars_f": "110.0",
+        "stars_a": "112.5",
+        "stars_diff": "-2.5",
+        "avg_perc": "92.49%",
+        "st_div": "0-0",
+        "st_conf": "0-1",
+        "st_non": "1-0",
+        "streak": "L1",
+        "schedule": [
+            "KANSHA",
+            "War & Glory",
+            "Midwinters",
+            "The Swarm",
+            "BYE",
+            "Dark Looters Z",
+            "OneHive",
+            "Reddit Alchemy",
+            "Reddit Omega",
+            "Mariana Trench",
+            "BYE",
+            "North Watchers",
+            "WHF"
+        ],
+        "results": [
+            {
+                "home_stars": "114",
+                "home_perc": "94.65%",
+                "enemy_name": "KANSHA",
+                "enemy_stars": "112",
+                "enemy_perc": "94.72%",
+                "result": "win"
+            },
+            {
+                "home_stars": "106",
+                "home_perc": "90.32%",
+                "enemy_name": "War & Glory",
+                "enemy_stars": "113",
+                "enemy_perc": "93.93%",
+                "result": "loss"
+            }
+        ]
+    }
+}

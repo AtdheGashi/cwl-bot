@@ -1,0 +1,452 @@
+[
+    {
+        "tag": "IP",
+        "name": "Invictus Prime",
+        "league": "premiere"
+    },
+    {
+        "tag": "FYSB",
+        "name": "FYSB",
+        "league": "premiere"
+    },
+    {
+        "tag": "WAS",
+        "name": "We Are Spartans",
+        "league": "premiere"
+    },
+    {
+        "tag": "FFS",
+        "name": "ForgedFromSteel",
+        "league": "premiere"
+    },
+    {
+        "tag": "OHG",
+        "name": "OneHive Genesis",
+        "league": "premiere"
+    },
+    {
+        "tag": "HIN",
+        "name": "Hindustan",
+        "league": "premiere"
+    },
+    {
+        "tag": "RXI",
+        "name": "Rogue XI",
+        "league": "premiere"
+    },
+    {
+        "tag": "F1W",
+        "name": "F1nland War",
+        "league": "premiere"
+    },
+    {
+        "tag": "Q3",
+        "name": "Quantum Three",
+        "league": "premiere"
+    },
+    {
+        "tag": "GOM",
+        "name": "Grumpy Old Men",
+        "league": "premiere"
+    },
+    {
+        "tag": "PB1",
+        "name": "PINOY BANDIDOS1",
+        "league": "premiere"
+    },
+    {
+        "tag": "DLX",
+        "name": "Dark Looters X",
+        "league": "premiere"
+    },
+    {
+        "tag": "DA",
+        "name": "Darc Avengers",
+        "league": "premiere"
+    },
+    {
+        "tag": "DS",
+        "name": "Die Saubazis",
+        "league": "premiere"
+    },
+    {
+        "tag": "MN",
+        "name": "Marshals'Nation",
+        "league": "premiere"
+    },
+    {
+        "tag": "LT",
+        "name": "Ledisch Tuig",
+        "league": "premiere"
+    },
+    {
+        "tag": "JOFF",
+        "name": "J' OFF",
+        "league": "premiere"
+    },
+    {
+        "tag": "ISM",
+        "name": "Pigeonism",
+        "league": "premiere"
+    },
+    {
+        "tag": "CZK",
+        "name": "CZ exKnights",
+        "league": "premiere"
+    },
+    {
+        "tag": "WHF2",
+        "name": "WHF2",
+        "league": "premiere"
+    },
+    {
+        "tag": "QS",
+        "name": "Quixotic Squad",
+        "league": "premiere"
+    },
+    {
+        "tag": "DR",
+        "name": "Dragon Rejects",
+        "league": "premiere"
+    },
+    {
+        "tag": "GoW",
+        "name": "\u03a9God of War\u03a9",
+        "league": "rising"
+    },
+    {
+        "tag": "BA",
+        "name": "_Black Apple_",
+        "league": "rising"
+    },
+    {
+        "tag": "CL",
+        "name": "CroLegion",
+        "league": "rising"
+    },
+    {
+        "tag": "PD",
+        "name": "Predominance",
+        "league": "rising"
+    },
+    {
+        "tag": "4B",
+        "name": "4bidden",
+        "league": "rising"
+    },
+    {
+        "tag": "CU",
+        "name": "ClashUnited",
+        "league": "rising"
+    },
+    {
+        "tag": "AA",
+        "name": "Aussie Addicts",
+        "league": "rising"
+    },
+    {
+        "tag": "OHI",
+        "name": "OneHive Invicta",
+        "league": "rising"
+    },
+    {
+        "tag": "BG",
+        "name": "Bangladesh",
+        "league": "rising"
+    },
+    {
+        "tag": "CH",
+        "name": "Chaos Hammer",
+        "league": "rising"
+    },
+    {
+        "tag": "CoE",
+        "name": "Code Enigma",
+        "league": "rising"
+    },
+    {
+        "tag": "NH",
+        "name": "Nattingham",
+        "league": "rising"
+    },
+    {
+        "tag": "GK",
+        "name": "G\u00f6teborgs kriga",
+        "league": "rising"
+    },
+    {
+        "tag": "TL",
+        "name": "The Lost",
+        "league": "rising"
+    },
+    {
+        "tag": "RV",
+        "name": "Reddit Viper",
+        "league": "rising"
+    },
+    {
+        "tag": "TM",
+        "name": "The Moochers",
+        "league": "rising"
+    },
+    {
+        "tag": "RE",
+        "name": "Reddit Elephino",
+        "league": "rising"
+    },
+    {
+        "tag": "IR",
+        "name": "Immoral Reapers",
+        "league": "rising"
+    },
+    {
+        "tag": "CWCB",
+        "name": "CWC-Brawlers",
+        "league": "rising"
+    },
+    {
+        "tag": "VE",
+        "name": "Varhaisel\u00e4ke",
+        "league": "rising"
+    },
+    {
+        "tag": "GS",
+        "name": "Gunma SAMURAI",
+        "league": "rising"
+    },
+    {
+        "tag": "RH",
+        "name": "Reddit Hounds",
+        "league": "rising"
+    },
+    {
+        "tag": "NA",
+        "name": "North Awakens",
+        "league": "rising"
+    },
+    {
+        "tag": "A&B",
+        "name": "Above&Beyond",
+        "league": "lite"
+    },
+    {
+        "tag": "AO",
+        "name": "+Archer Outlaws",
+        "league": "lite"
+    },
+    {
+        "tag": "NL",
+        "name": "NagalandElite1",
+        "league": "lite"
+    },
+    {
+        "tag": "PK",
+        "name": "PhatKatz",
+        "league": "lite"
+    },
+    {
+        "tag": "OV",
+        "name": "Omnia Vincit",
+        "league": "lite"
+    },
+    {
+        "tag": "SEC",
+        "name": "\u84bc\u6d77SECUNDUM",
+        "league": "lite"
+    },
+    {
+        "tag": "ALP",
+        "name": "Alphas",
+        "league": "lite"
+    },
+    {
+        "tag": "HRV",
+        "name": "Hrvatska",
+        "league": "lite"
+    },
+    {
+        "tag": "HH2",
+        "name": "Heavy Hitters2",
+        "league": "lite"
+    },
+    {
+        "tag": "KK",
+        "name": "Koastal Klash",
+        "league": "lite"
+    },
+    {
+        "tag": "YOLO",
+        "name": "YOLO MODE",
+        "league": "lite"
+    },
+    {
+        "tag": "GB2",
+        "name": "GaihaziBomber 2",
+        "league": "lite"
+    },
+    {
+        "tag": "VW",
+        "name": "Violent Wizards",
+        "league": "lite"
+    },
+    {
+        "tag": "CM",
+        "name": "Crazy Monkey",
+        "league": "lite"
+    },
+    {
+        "tag": "GAB",
+        "name": "GABALES",
+        "league": "lite"
+    },
+    {
+        "tag": "TiV",
+        "name": "Time Vortex",
+        "league": "lite"
+    },
+    {
+        "tag": "MTK",
+        "name": "Meet The Kings",
+        "league": "lite"
+    },
+    {
+        "tag": "LP3C",
+        "name": "LP3 Chiron",
+        "league": "lite"
+    },
+    {
+        "tag": "1001",
+        "name": "1001 Crew",
+        "league": "lite"
+    },
+    {
+        "tag": "ASC",
+        "name": "AssassinSCore",
+        "league": "lite"
+    },
+    {
+        "tag": "JTJ",
+        "name": "JTJ",
+        "league": "lite"
+    },
+    {
+        "tag": "PVMP",
+        "name": "PinoyViolatorMP",
+        "league": "lite"
+    },
+    {
+        "tag": "RdL",
+        "name": "Red line",
+        "league": "lite"
+    },
+    {
+        "tag": "DL",
+        "name": "Dark Looters",
+        "league": "invite"
+    },
+    {
+        "tag": "CB",
+        "name": "Clantanemo Bay",
+        "league": "invite"
+    },
+    {
+        "tag": "FW",
+        "name": "Faked Wrgsm",
+        "league": "invite"
+    },
+    {
+        "tag": "B3",
+        "name": "b3astmod3",
+        "league": "invite"
+    },
+    {
+        "tag": "SK",
+        "name": "Suomi Kotkat",
+        "league": "invite"
+    },
+    {
+        "tag": "EE",
+        "name": "Emphatic Elite",
+        "league": "invite"
+    },
+    {
+        "tag": "6S",
+        "name": "6 Schlitzes",
+        "league": "invite"
+    },
+    {
+        "tag": "PWC",
+        "name": "PwC",
+        "league": "invite"
+    },
+    {
+        "tag": "OH",
+        "name": "OneHive",
+        "league": "invite"
+    },
+    {
+        "tag": "WW",
+        "name": "War Whales",
+        "league": "invite"
+    },
+    {
+        "tag": "IT",
+        "name": "Immoral Thieves",
+        "league": "invite"
+    },
+    {
+        "tag": "BFE",
+        "name": "ByeForever",
+        "league": "invite"
+    },
+    {
+        "tag": "SL",
+        "name": "Spartans Legacy",
+        "league": "invite"
+    },
+    {
+        "tag": "OH2",
+        "name": "OneHive 2.0",
+        "league": "invite"
+    },
+    {
+        "tag": "BBC",
+        "name": "Bada Bing Clan",
+        "league": "invite"
+    },
+    {
+        "tag": "TS",
+        "name": "The Swarm",
+        "league": "invite"
+    },
+    {
+        "tag": "W&G",
+        "name": "War & Glory",
+        "league": "invite"
+    },
+    {
+        "tag": "RA",
+        "name": "Reddit Alchemy",
+        "league": "invite"
+    },
+    {
+        "tag": "DLZ",
+        "name": "Dark Looters Z",
+        "league": "invite"
+    },
+    {
+        "tag": "RO",
+        "name": "Reddit Omega",
+        "league": "invite"
+    },
+    {
+        "tag": "WHF",
+        "name": "WHF",
+        "league": "invite"
+    },
+    {
+        "tag": "TI",
+        "name": "Tactical Inc",
+        "league": "invite"
+    }
+]
